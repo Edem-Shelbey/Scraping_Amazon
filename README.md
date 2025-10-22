@@ -1,4 +1,4 @@
-# 🕸️ Web_Scrap
+# Web_Scrap
 
 **Projet universitaire de développement Python**
 
